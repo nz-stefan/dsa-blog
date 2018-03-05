@@ -1,4 +1,4 @@
-baseURL = "https://optimistic-jones-ee5a2a.netlify.com/"
+baseURL = "https://dsa-nz.netlify.com"
 languageCode = "en-us"
 title = "Data Science Academy"
 theme = "hugo-initio"
