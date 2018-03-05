@@ -11,3 +11,7 @@ tags: []
 print("lala")
 ```
 
+```{r}
+plot(rnorm(10))
+```
+

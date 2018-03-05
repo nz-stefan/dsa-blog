@@ -2,7 +2,7 @@
 menu = "main"
 title = "test"
 weight = 15
-type = "about"
+type = "startpage"
 +++
 
 
