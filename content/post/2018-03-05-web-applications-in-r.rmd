@@ -1,0 +1,13 @@
+---
+title: Web applications in R
+author: ~
+date: '2018-03-05'
+slug: web-applications-in-r
+categories: []
+tags: []
+---
+
+```{r}
+print("lala")
+```
+
