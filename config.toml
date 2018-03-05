@@ -2,7 +2,7 @@ baseURL = "https://optimistic-jones-ee5a2a.netlify.com/"
 languageCode = "en-us"
 title = "Data Science Academy"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
     name = "Data Science Academy"
