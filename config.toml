@@ -15,10 +15,10 @@ publishDir = "public"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
 
-    showSubheader = false
+    showSubheader = true
     showServices = true
-    showRecentWorks = true
-    showDownload = true
+    showRecentWorks = false
+    showDownload = false
     showClients = false
 
     footerEnableContact = false
@@ -30,10 +30,6 @@ publishDir = "public"
     name = "home"
     url = "/"
     weight = 1
-[[menu.main]]
-    name = "company"
-    url = "/company/"
-    weight = 5
 [[menu.main]]
     name = "blog"
     url = "/post/"
