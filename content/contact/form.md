@@ -7,7 +7,7 @@ type = "startpage"
 <div class="row">
 <div class="col-sm-6 col-sm-offset-3">
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" netlify>
   <div class="form-group">
     <label for="nameField">Your name</label>
     <input type="input" class="form-control" id="nameField" name="name" placeholder="Enter name">
