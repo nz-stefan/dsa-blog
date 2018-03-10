@@ -1,0 +1,11 @@
+<div class="row section featured topspace">
+  <div class="col-sm-12">
+    <h2 class="section-title">Contact Us</h2>
+    
+    <div class="">
+        {{ range where .Data.Pages "Section" "contact" }}
+            <p>{{ .Content }}</p>
+        {{ end }}
+    </div>
+  </div>
+</div> <!-- / section -->
