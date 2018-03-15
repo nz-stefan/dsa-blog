@@ -31,9 +31,13 @@ publishDir = "public"
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "courses"
+    url = "/service/"
+    weight = 10
+[[menu.main]]
     name = "blog"
     url = "/post/"
-    weight = 10
+    weight = 20
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

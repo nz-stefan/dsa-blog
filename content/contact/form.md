@@ -3,7 +3,6 @@ title = "Contact"
 type = "startpage"
 +++
 
-
 <div class="col-sm-6 col-sm-offset-3">
 
 <form name="startpage-contact" method="POST" netlify>
@@ -33,11 +32,9 @@ type = "startpage"
   
   <div class="form-group">
     <label>Your message</label>
-    <textarea class="form-control" rows="3" name="message"></textarea>
+    <textarea class="form-control" rows="5" name="message"></textarea>
   </div>
   
-  <div class="form-group" netlify-recaptcha>&nbsp;</div>
-
   <button type="submit" class="btn btn-primary">Submit</button>
   <p>&nbsp;</p>
 </form>
