@@ -1,4 +1,4 @@
-baseURL = "https://www.datascienceacademy.co.nz/"
+baseURL = "http://www.datascienceacademy.co.nz/"
 languageCode = "en-us"
 title = "Data Science Academy"
 theme = "hugo-initio"
