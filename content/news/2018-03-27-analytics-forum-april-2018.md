@@ -1,8 +1,8 @@
 ---
-title: Talk at NZ Analytics Forum
-author: Stefan Schliebs
+title: 'Talk at NZ Analytics Forum'
+author: 'Stefan Schliebs'
 date: '2018-03-27'
-slug: analytics-forum-april-2018
+slug: 'analytics-forum-april-2018'
 categories: []
 tags: []
 ---
