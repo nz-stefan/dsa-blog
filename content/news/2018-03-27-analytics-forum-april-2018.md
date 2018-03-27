@@ -5,7 +5,7 @@ date: '2018-03-27'
 slug: 'analytics-forum-april-2018'
 categories: []
 tags: []
-type: 'startpage'
+type: 'news'
 ---
 
 Stefan will be giving a talk on "Web applications in R" on April 11, 2018 at the New Zealand Analytics Forum in Auckland (NZAF).
