@@ -19,7 +19,7 @@ publishDir = "public"
     showServices = true
     showRecentWorks = false
     showDownload = false
-    showClients = false
+    showClients = true
 
     footerEnableContact = false
     footerEnableFollowme = false
