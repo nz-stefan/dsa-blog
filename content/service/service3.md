@@ -1,5 +1,5 @@
 +++
-title = "Automated Reporting"
+title = "Report automation"
 type = "startpage"
 +++
 
