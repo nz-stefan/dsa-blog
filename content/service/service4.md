@@ -3,10 +3,8 @@ title = "Reproducible analysis"
 type = "startpage"
 +++
 
-
-Making an analysis reproducible is probably one of the lowest hanging fruits to improve analytical outputs and processes of an organisation. 
-Learn about the concepts and tools of a modern analytical workflow and 
-how to apply the scientific method in practice.
+Reproducible analysis is the practice of distributing all data, code and tools required to produce the results obtained through an anlysis.
+Making an analysis reproducible is probably one of the lowest hanging fruits to improve the analytical outputs and processes. 
 
 <!--more-->
 
@@ -18,7 +16,22 @@ The rigor required to make an analysis reproducible increases the confidence of 
 
 ### Course syllabus
 
-Details will be shared shortly.
+- We start the course with an introduction to reproducible research, its principles and 
+  the spectrum of reproducibility if complete replication of an analysis is unfeasible
+- We discuss a standardized directory structure for all analytics projects 
+- The most common way to make an analysis reproducible is to script it using a programming language. 
+  We cover the most basic concepts of the statistical programming language R. 
+  Although previous programming knowledge is beneficial, it is not essential to follow the course.
+- Using code in the analytical process allows coordinating work among multiple analysts and 
+  keeping track of all changes throughout the development of the analysis. 
+  We show how to use a version control system to automatically track all files of the analysis.
+- Also the documentation of an analysis should be reproducible.
+  We discuss how to script the documentation and regenerate it whenever parts of the analysis change.
+- Usually an analysis is composed of several scripts that devide it into logical parts, 
+  e.g. data cleaning, exploratory data analysis, modeling and documentation. 
+  In the last part of the course we talk about the glue between these scripts 
+  that ensures they are executed in a specific order.
+
 
 
 ### Course prerequisites
@@ -41,7 +54,7 @@ He holds a Master degree in Computer Science from the University of Leipzig, Ger
 
 ### Location
 
-The course is held in Auckland CBD. Details will be announced closer to the course date.
+Details will be announced closer to the course date.
 
 
 ### Course fees
