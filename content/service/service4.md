@@ -3,7 +3,7 @@ title = "Reproducible analysis"
 type = "startpage"
 +++
 
-Reproducible analysis is the practice of distributing all data, code and tools required to produce the results obtained through an anlysis.
+Reproducible analysis is the practice of distributing all data, code and tools required to produce the results obtained through an analysis.
 Making an analysis reproducible is probably one of the lowest hanging fruits to improve the analytical outputs and processes. 
 
 <!--more-->
