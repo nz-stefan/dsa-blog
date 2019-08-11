@@ -1,0 +1,18 @@
+enable : true
+heading : Get In
+headingSpan : Touch
+title : Contact Details
+content : Please leave us your email address and we will get back to you with more details shortly. 
+enable_maps : false
+mapLatitude : 51.5223477
+mapLongitude: -0.1622023
+contactDetails :
+  - icon : tf-map-pin
+    info : "PO Box 6423, Wellesley Street, Auckland 1141, New Zealand"
+    
+#  - icon : tf-ion-ios-telephone-outline
+#    info : "Phone: +64-21-157-8416"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: hello@datascienceacademy.co.nz"
+    

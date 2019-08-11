@@ -1,0 +1,14 @@
+enable : true
+image : images/about/about-business-man.jpg
+title : Our Mission - Raising the bar
+description : We embrace the scientific method. It is our mission to make data deliverables fully reproducible, decrease manual labor, reduce errors and improve productivity of data professionals. Reliable and efficient processing workflows establish credibility in data businesses, accelerate innovation and increase the confidence of both clients and analysts in the obtained analytical results.
+title2: How are we different from other training providers?
+description2 : While many online courses lack practical hands-on sessions with experts and university courses can take a lot of time and commitment, we offer practical solutions for a very specific business problem. We provide hands-on courses that teach exactly the required skills to fill a business need. Course participants can put the learned concepts into action in their organisations immediately. 
+# aboutItem : 
+#  - icon : tf-circle-compass
+#    title : SEO Optimized
+#    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+#    
+#  - icon : tf-hotairballoon
+#    title : Easy Customization
+#    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

@@ -1,0 +1,21 @@
+enable : true
+heading : About
+headingSpan : Us
+aboutItem : 
+- icon : tf-tools
+  title : We upskill
+  content : We provide intensive, practical, hands-on courses to lift business intelligence skills to the next level
+
+- icon : tf-ribbon
+  title : We teach
+  content : We engage New Zealand’s top data science talent to up-skill and empower data professionals
+
+- icon : tf-genius
+  title : We enable
+  content : We enable professionals to deliver high quality data outputs, follow best practice and use modern data science tools
+
+
+
+  
+
+   

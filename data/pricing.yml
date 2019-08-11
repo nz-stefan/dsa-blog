@@ -1,0 +1,43 @@
+enable : true
+heading : Our Course
+headingSpan : Plans
+pricingTable :
+  - title : Single
+    price : $500
+    time : seat
+#    btnURL : http://google.com
+#    btnText : Contact Us
+    plan :
+      - planDetails : One day teaching session (5 hours)
+      - planDetails : Includes 2 hours hands-on exercise
+      - planDetails : Comprehensive course materials
+      - planDetails : Access to online dev environment
+      - planDetails : Optional Q/A session
+      - planDetails : Optional post-course consulting
+      
+  - title : Weekend
+    price : $750
+    time : seat
+#    btnURL : #
+#    btnText : Contact Us
+    plan :
+      - planDetails : 2 days teaching session
+      - planDetails : Includes 2 hands-on exercises
+      - planDetails : Comprehensive course materials
+      - planDetails : Access to online dev environment
+      - planDetails : Optional Q/A session
+      - planDetails : Optional post-course consulting
+      
+  - title : Bootcamp
+    price : Contact Us
+    time : 
+#    btnURL : #
+#    btnText : Contact Us
+    plan :
+      - planDetails : Negotiable number of teaching sessions and exercises
+      - planDetails : Comprehensive final project
+      - planDetails : All course materials included
+      - planDetails : Access to online dev environment
+      - planDetails : Optional Q/A session
+      - planDetails : Optional post-course consulting
+      

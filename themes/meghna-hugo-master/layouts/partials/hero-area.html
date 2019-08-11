@@ -1,0 +1,21 @@
+{{ if .Site.Params.banner.enable }}
+{{"<!-- Welcome Slider-->" | safeHTML}}
+<section class="hero-area" style='background-image: url("{{ .Site.Params.banner.bgImage | absURL }}");'>
+    <div class="block">
+        {{with .Site.Params.banner.icon}}
+        <div class="video-button">
+            <i class="{{ . }}"></i>
+        </div>
+        {{ end }}
+       
+       <div>
+       <!--img src="images/dsa-logo-new.png" style="width: 50%; max-width: 1000px"-->
+       <img src="images/dsa-logo-v3.svg" style="width: 60%; max-width: 1000px">
+       </div>
+       {{ if .Site.Params.banner.btn}}
+        <a data-scroll href="{{ .Site.Params.banner.btnURL}}" class="btn btn-transparent">{{ .Site.Params.banner.btnText}}</a>
+        {{ end }}
+    </div>
+</section>
+{{"<!-- /Welcome Slider-->" | safeHTML}}
+{{end}}

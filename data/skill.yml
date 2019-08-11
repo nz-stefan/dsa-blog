@@ -1,0 +1,27 @@
+enable : true
+heading : Our
+headingSpan : Skills
+title : We’re skilled in a versatile range of programming languages, databases, visualization techniques, web and mobile technologies
+content : We have extensive experience in commercial and academic environments with a proven record of building successful data science products. We have worked across a range of industry sectors, developed a variety of data science solutions including segmentations, profiling, forecasting, churn & response modelling and published academic research in international journals and conferences. We also tipped our toes into executive level management, recruiting and leading teams and orchestrating the development cycle of data products from concept into production.
+# image : images/about/company-growth.png
+image : images/skills-logos.png
+skillItem :
+  - itemNumber : 01-
+    itemName :  Business Development
+    itemPercent : 90%
+    
+  - itemNumber : 02-
+    itemName :  Analysis
+    itemPercent : 70%
+    
+  - itemNumber : 03-
+    itemName :  Design
+    itemPercent : 80%
+    
+  - itemNumber : 04-
+    itemName :  IOS Development
+    itemPercent : 95%
+    
+  - itemNumber : 05-
+    itemName :  Andriod Development
+    itemPercent : 75%

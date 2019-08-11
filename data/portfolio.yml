@@ -1,0 +1,51 @@
+enable : true
+heading : Our
+headingSpan : Works
+filterList :
+  - filterType : shiny
+    filterTitle : R Shiny
+    
+  - filterType : presentations
+    filterTitle : Presentations
+    
+  - filterType : articles
+    filterTitle : Articles
+
+portfolioItem :
+  - types : shiny
+    image : images/portfolio/cran-explorer.png
+    URL : https://nz-stefan.shinyapps.io/cran-explorer/
+    title : Runner-Up
+    description : RStudio Shiny Contest 2019
+    
+  - types : shiny
+    image : images/portfolio/ufo-app.png
+    URL : https://nz-stefan.shinyapps.io/ufo-sightings/
+    title : Shiny Demo App
+    description :  Web application written in the R Shiny framework in less than 40 hours
+    
+  - types : shiny
+    image : images/portfolio/bus-loc-map-v2.png
+    URL : https://nz-stefan.shinyapps.io/bus_loc_map/
+    title : Auckland Bus Locations
+    description : Shiny App showing real-time bus locations in the Auckland region
+    
+  - types : shiny
+    image : images/portfolio/kiwi-playgrounds.png
+    URL : https://nz-stefan.shinyapps.io/kiwi-playgrounds/
+    title : Kiwi Playgrounds
+    description : Location and equipment of all Auckland Council Playgrounds  
+    
+  - types : presentations
+    image : images/portfolio/minz-2019.png
+    URL : http://bit.ly/slides-minz-2019
+    title : Slides MINZ 2019
+    description : Invited talk at Maths in Industry NZ 2019
+    
+  - types : presentations
+    image : images/portfolio/aklrug-2018.png
+    icon : tf-ion-android-search
+    URL : http://bit.ly/aklrug-2018
+    title : Web Applications in R
+    description : Presentation at the Auckland R User Meetup
+    
