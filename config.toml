@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://trusting-lalande-80b9c4.netlify.com"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = ""
