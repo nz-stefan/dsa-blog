@@ -2,7 +2,7 @@
 title = "Reproducible Analysis"
 date = "2019-3-06"
 description = "Reproducible analysis is the practice of distributing all data, code and tools required to produce the results obtained through an analysis. Making an analysis reproducible may be the lowest hanging fruit to improve analytical outputs and processes."
-icon = "tf-globe"
+icon = "tf-ion-ios-paper-outline"
 +++
 
 

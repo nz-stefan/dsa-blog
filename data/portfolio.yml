@@ -1,6 +1,6 @@
 enable : true
 heading : Our
-headingSpan : Works
+headingSpan : Work
 filterList :
   - filterType : shiny
     filterTitle : R Shiny

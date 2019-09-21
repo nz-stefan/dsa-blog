@@ -1,11 +1,9 @@
 +++
-title = "Data Science Introduction"
+title = "Choose a Topic"
 date = "2019-3-06"
-description = "Learn what the data science hype is all about and how data professionals spent their time. The course covers a hands-on data analysis, the basics of machine learning and includes a practical R Shiny dashboard exercise."
-icon = "tf-streetsign"
+description = "Do you have a specific problem or data science topic you would like us to cover? Chances are we have experienced a similar problem before and can develop bespoke course material on short notice.  Reach out to discuss details!"
+icon = "tf-ion-ios-help-outline"
 +++
-
-TODO: Change course syllabus
 
 Get to know your customers and learn about the process of dividing a broad consumer market into sub-groups of consumers (segments) based on shared characteristics such as geography, demographic, behaviour and psychographic.
 

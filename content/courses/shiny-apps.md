@@ -2,7 +2,7 @@
 title = "R Shiny Apps"
 date = "2019-3-06"
 description = "Learn how to create compelling dashboards and how to publish, share and secure them. The course discusses various technologies and provides in-depth experience of developing web applications in the R framework Shiny."
-icon = "tf-globe"
+icon = "tf-ion-laptop"
 +++
 
 

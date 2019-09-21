@@ -1088,11 +1088,14 @@ a:hover {
   Services section
 ==================================================================*/
 .service-block {
+  background: #242930;
+  min-height: 420px;
   padding: 60px 20px;
-  border-left: 1px solid rgba(236, 239, 241, 0.07);
-  border-top: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid rgba(236, 239, 241, 0.07);
+  /*border-left: 1px solid rgba(236, 239, 241, 0.07);
+  border-top: 1px solid rgba(236, 239, 241, 0.07);*/
   margin-bottom: 40px;
-  box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
+  /*box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);*/
 }
 
 .service-block .service-icon {
@@ -1364,6 +1367,7 @@ a:hover {
 .post-block {
   background-color: #292F36;
   margin-bottom: 10px;
+  min-height: 520px;
 }
 
 .post-block .content {

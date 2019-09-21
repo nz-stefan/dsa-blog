@@ -2,7 +2,7 @@
 title = "Report Automation"
 date = "2019-3-06"
 description = "Learn how to automate your company's reporting requirements quickly and effectively with R and the RMarkdown package. Generate reports in various formats such as HTML, PDF, Microsoft Word, PowerPoint or Excel document."
-icon = "tf-globe"
+icon = "tf-ion-stats-bars"
 +++
 
 

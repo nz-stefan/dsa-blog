@@ -2,7 +2,7 @@
 title = "Operationalisation"
 date = "2019-3-06"
 description = "Got your analysis running on your laptop? Excellent! Make the next step and learn how to put your work into production and in front of decision makers using automated processes, containerisation and cloud services."
-icon = "tf-globe"
+icon = "tf-gears"
 +++
 
 TODO: Flesh out course details
