@@ -5,7 +5,7 @@ teamMember :
   - image : images/team/P8302881.jpg #images/team/team-1.jpg
     name : Stefan Schliebs, PhD
     designation : Founder
-    description : Stefan holds a PhD degree in computer science from the Auckland University of Technology. He received numerous academic rewards, published more than 35 scientific articles in international journals, conferences and books and lectured data science courses at university. He worked as a data scientist in various industries. He is a co-organizer of the R User Meetup Group Auckland and Hackathon participant. 
+    description : Stefan holds a PhD degree in Computer Science from the Auckland University of Technology. He received numerous academic rewards, published more than 35 scientific articles in international journals, conferences and books and lectured data science courses at the university. He worked as a data scientist at various companies for many years. He is also a co-organizer of the R User Meetup Group Auckland and a Hackathon participant. 
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -19,7 +19,7 @@ teamMember :
   - image : images/team/P8302869.jpg #images/team/team-2.jpg
     name : John Graves, PhD
     designation : Founder
-    description : John holds a PhD degree in Computer Science from AUT University and is a graduate of Singularity University in Mountain View, California. He has worked for high-profile financial organizations such as Morgan Stanley in New York City and Allianz Global Investors in San Diego and has founded several start-up companies in the US and NZ. John regularly speaks at meetups and conferences on topics related to Artificial Intelligence. 
+    description : John holds a PhD degree in Computer Science from the Auckland University of Technology and is a graduate of Singularity University in Mountain View, California. He has worked for high-profile financial organizations such as Morgan Stanley in New York City and Allianz Global Investors in San Diego and has founded several start-up companies in the US and NZ. John regularly speaks at meetups and conferences on topics related to Artificial Intelligence. 
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
